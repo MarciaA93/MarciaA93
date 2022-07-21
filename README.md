@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TGV Group](LIke FrontEnd Dev)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, Vue.js, Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
